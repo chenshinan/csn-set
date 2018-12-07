@@ -27,3 +27,6 @@
 * 继承关系：TreeSet -> AbstractSet 实现 Set接口
 
 * TreeSet的本质是一个`"有序的，并且没有重复元素"`的集合，它是通过TreeMap实现的。TreeSet中含有一个`"NavigableMap类型的成员变量"`m，而m实际上是`"TreeMap的实例"`
+
+参考文献：
+- [Java 集合系列教程](http://www.cnblogs.com/skywang12345/p/3323085.html)
